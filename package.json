@@ -95,7 +95,7 @@
         "style-loader": "^0.12.4",
         "transfer-webpack-plugin": "^0.1.4",
         "url-loader": "^0.5.6",
-        "wallaby-webpack": "0.0.8",
+        "wallaby-webpack": "^0.0.9",
         "webpack": "^1.12.2",
         "webpack-dev-server": "^1.12.0"
     },
